@@ -8,4 +8,3 @@
 
 <script>alert("test");</script>
 
-やーい
