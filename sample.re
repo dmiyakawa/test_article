@@ -15,4 +15,4 @@
 
 <script>alert("test");</script>
 
-こんなじんせー
+こんなじんせー、と言えば
